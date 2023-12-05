@@ -1,0 +1,12 @@
+Django
+djangorestframework
+djangorestframework_simplejwt
+requests
+uuid
+django-cors-headers
+python-dotenv
+dj_database_url
+django-storages[dropbox]
+psycopg2
+pillow
+whitenoise
