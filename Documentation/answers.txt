@@ -1,0 +1,18 @@
+not separate diseases
+report for full patient
+in charge doctor, admin full edit
+admin only
+short address, phone number X 2
+only i.p/op, s.no to be filled by user
+done at first only, multiple versions, date stamped
+keep track of treatment history
+multiple images for each appt
+
+to specify if others in history in text
+
+
+--------------------------------
+
+
+Chronicity and Recurracncy
+ 
